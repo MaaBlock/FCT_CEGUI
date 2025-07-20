@@ -1,3 +1,6 @@
 [submodule "platform"]
 	path = platform
 	url = https://github.com/MaaBlock/FCT_PlatformConfig
+[submodule "cegui"]
+	path = cegui
+	url = https://github.com/MaaBlock/cegui
